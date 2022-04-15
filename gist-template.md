@@ -19,7 +19,7 @@ The regular expression that I will explaining today is the one that makes up an 
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+For reference, this is the email regex: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ### Anchors
 ^ and $ at the beginning and end of the expression, signifies the pattern to look at everything in between them.
